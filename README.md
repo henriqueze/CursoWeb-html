@@ -1,2 +1,43 @@
 # CursoWeb-html
 Curso Web Front-end -- HTML
+
+
+<!DOCTYPE html>
+<html>
+	<head>
+		<title>JM Viagens - Página Principal</title>
+		<meta charset="utf-8">
+	</head>
+
+	<body>
+
+		<table border="0" width="900px" align="center">
+			<tr>
+				<td><img src="imagens/logo.png"></td>
+				<td align="right">
+					<a href="index.html">Home | </a>
+					<a href="quem_somos.html">Quem Somos | </a>
+					<a href="contato.html">Contato</a>
+				</td>
+			</tr>
+
+			<tr>
+				<td colspan="2"><img src="imagens/principal.png"></td>
+			</tr>
+
+			<tr>
+				<td colspan="2">
+					<p>Quisque vitae nibh tempus, commodo nulla ac, auctor nisl. Morbi ac neque ac ex aliquet pellentesque. Nullam id tortor turpis. Proin vel lectus vel mi posuere finibus sit amet at ligula. Curabitur ante lorem, faucibus et ligula in, porttitor ornare dui. Mauris enim dui, semper sit amet ultricies accumsan, commodo in lacus. Fusce efficitur lacus diam, eu scelerisque dolor facilisis ut. Vivamus tristique, ante sodales viverra ultricies, nulla ipsum congue urna, a aliquet nulla elit sed odio. Donec ac sagittis ipsum. Aliquam laoreet dictum venenatis. Vivamus tincidunt porta velit eget eleifend. Donec cursus massa id ex tincidunt, pellentesque tristique ante commodo. Nunc ullamcorper, purus sed pulvinar vestibulum, lectus metus placerat arcu, quis elementum ligula augue in velit. Morbi consequat interdum dolor a posuere.</p>
+					<p>
+					Curabitur non augue quis arcu ultrices dapibus pulvinar vitae felis. Ut posuere ullamcorper neque, nec facilisis tortor cursus id. Fusce rutrum, urna eget gravida molestie, velit massa sollicitudin enim, eleifend faucibus ante elit ac purus. Quisque erat enim, suscipit id vehicula sit amet, vehicula eu libero. Cras molestie posuere condimentum. Nullam in felis vel odio malesuada commodo non sed odio. Donec vitae metus ut odio malesuada tempor. Sed purus velit, rhoncus id nulla nec, volutpat tempor neque. Nam fringilla dictum sapien, sit amet lacinia justo rutrum in. Etiam diam leo, vestibulum at ultricies a, tempor a quam. Fusce id tortor id arcu ullamcorper finibus et non lectus.
+					</p>
+				</td>
+			</tr>
+
+			<tr>
+				<td align="center" colspan="2"><h4>Todos os Direitos Reservados</h4></td>
+			</tr>
+
+		</table>
+	</body>
+</html>
