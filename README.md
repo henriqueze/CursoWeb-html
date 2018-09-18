@@ -1,2 +1,2 @@
-# CursoWeb-html
-Curso Web Front-end -- HTML
+# CursoWeb
+Curso Web Front-end -- HTML - CSS
